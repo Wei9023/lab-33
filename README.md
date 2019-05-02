@@ -51,6 +51,7 @@
 * open sandbox link
 
 ### Components
+```
 ├── README.md
 ├── package.json
 ├── public
@@ -65,7 +66,7 @@
         ├── actions.js
         ├── index.js
         └── reducer.js
-
+```
 
 
 #### UML
