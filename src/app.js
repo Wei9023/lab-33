@@ -60,10 +60,6 @@ class App extends React.Component {
             ))}
           </div>
         </section>
-        <a href="#" onClick={this.fetchData}>
-          The second one
-        </a>
-        {this.state.person ? this.state.person.count : "none"}
       </>
     );
   }

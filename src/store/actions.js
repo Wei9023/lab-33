@@ -1,6 +1,6 @@
 import superagent from "superagent";
 
-let api = "https://swapi.co/api/people/";
+// let api = "https://swapi.co/api/people/";
 
 export const get = url => dispatch => {
   return superagent.get(url).then(result => {
