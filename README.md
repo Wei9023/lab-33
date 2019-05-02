@@ -6,7 +6,7 @@
 ### Author: Vanessa
 
 ### Links and Resources
-* [repo](https://github.com/401-advanced-javascript-v/lab-31)
+* [repo](https://github.com/Wei9023/lab-33)
 * [sand box](https://codesandbox.io/s/github/Wei9023/lab-33/tree/master/)
 
 ## Assignment
