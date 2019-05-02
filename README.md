@@ -51,7 +51,20 @@
 * open sandbox link
 
 ### Components
-![modules](./module.png)
+├── README.md
+├── package.json
+├── public
+│   └── index.html
+└── src
+    ├── app.js
+    ├── app.module.scss
+    ├── index.js
+    ├── lib
+    │   └── utils.js
+    └── store
+        ├── actions.js
+        ├── index.js
+        └── reducer.js
 
 
 
